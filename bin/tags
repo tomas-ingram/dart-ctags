@@ -1,0 +1,23 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+Ctags	tags.dart	/Ctags(this.options);/;"	r	access:public	line:11	class:Ctags	signature:(this.options)
+Ctags	tags.dart	/class Ctags {/;"	c	access:public	line:11	type:class
+_parseFieldType	tags.dart	/String _parseFieldType(String input) {/;"	m	access:private	line:23	class:Ctags	signature:(String input)	type:String
+addFileSystemEntity	tags.dart	/Future<Iterable<Iterable<String>>> addFileSystemEntity(String name) async {/;"	m	access:public	line:77	class:Ctags	signature:(String name)	type:Future<Iterable<Iterable<String>>>
+constructor	tags.dart	/RegExp constructor = RegExp(r'^[^]+?($|{|;)');/;"	f	access:public	line:18	class:Ctags	type:RegExp
+dart:async	tags.dart	/^;"	D	line:1	directive:import
+dart:io	tags.dart	/^;"	D	line:2	directive:import
+enumeration	tags.dart	/RegExp enumeration = RegExp(r'^[^]+?($|{)');/;"	f	access:public	line:16	class:Ctags	type:RegExp
+generate	tags.dart	/void generate() {/;"	m	access:public	line:46	class:Ctags	signature:()	type:void
+import	tags.dart	/import/;"	i	line:1	type:directives
+klass	tags.dart	/RegExp klass = RegExp(r'^[^]+?($|{)');/;"	f	access:public	line:15	class:Ctags	type:RegExp
+main	tags.dart	/^;"	F	access:public	line:504	signature:([List<String>? args])	type:void
+method	tags.dart	/RegExp method = RegExp(r'^[^]+?($|{|;|\=>)');/;"	f	access:public	line:19	class:Ctags	type:RegExp
+miXin	tags.dart	/RegExp miXin = RegExp(r'^[^]+?($|{)');/;"	f	access:public	line:17	class:Ctags	type:RegExp
+options	tags.dart	/ArgResults options;/;"	f	access:public	line:12	class:Ctags	type:ArgResults
+package:analyzer/dart/analysis/features.dart	tags.dart	/^;"	U	line:6	directive:import
+package:analyzer/dart/analysis/utilities.dart as an	tags.dart	/^;"	U	line:7	directive:import
+package:analyzer/dart/ast/ast.dart	tags.dart	/^;"	U	line:4	directive:import
+package:args/args.dart	tags.dart	/^;"	U	line:9	directive:import
+package:path/path.dart as path	tags.dart	/^;"	U	line:8	directive:import
+parseFile	tags.dart	/Future<Iterable<String>> parseFile(File file) async {/;"	m	access:public	line:100	class:Ctags	signature:(File file)	type:Future<Iterable<String>>
